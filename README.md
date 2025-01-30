@@ -1,4 +1,4 @@
-# PotatoNV-For-mac-with-wine
+# PotatoNV-For-Macos-with-Wine
 Run these shell scripts to run potato nv on mac using wine
 
 First configure with PNVMAC.sh
