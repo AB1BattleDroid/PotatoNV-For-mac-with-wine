@@ -1,5 +1,7 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+curl -L -o PotatoNV-latest.exe https://github.com/mashed-potatoes/PotatoNV/releases/latest/download/PotatoNV-next-v2.2.1-x86.exe
 
+mv ~/PotatoNV-latest.exe ~/Downloads
 
 brew install wine
 brew install winetricks
