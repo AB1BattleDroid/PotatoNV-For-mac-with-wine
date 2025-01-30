@@ -8,8 +8,6 @@ brew install make
 brew install nasm
 brew install zlib 
 brew install pkg-config 
-brew install libpng 
-brew install libjpeg 
 brew install libtiff 
 brew install libgsm 
 brew install libogg 
@@ -20,7 +18,6 @@ brew install libxkbcommon
 brew install libxcomposite 
 brew install libxdamage 
 brew install libxinerama 
-brew install libxcursor
 brew install libxrandr 
 brew install libxfixes 
 brew install llvm 
