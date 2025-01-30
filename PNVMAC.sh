@@ -1,4 +1,4 @@
-https://github.com/mashed-potatoes/PotatoNV/releases/latest
+git clone https://github.com/mashed-potatoes/PotatoNVreleases/latest
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
