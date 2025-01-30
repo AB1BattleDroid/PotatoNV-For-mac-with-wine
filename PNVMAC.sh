@@ -24,7 +24,7 @@ brew install libxcursor
 brew install libxrandr 
 brew install libxfixes 
 brew install llvm 
-brew install wine 
+brew install wine-stable
 brew install winetricks 
 brew install samba 
 brew install xquartz
