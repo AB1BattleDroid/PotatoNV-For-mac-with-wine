@@ -2,6 +2,7 @@
 
 
 brew install wine
+brew install winetricks
 brew install samba
 brew install xquartz
 
